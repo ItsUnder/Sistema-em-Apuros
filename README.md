@@ -83,17 +83,7 @@
     <li>JavaScript (via TamperMonkey para timer e lógica extra)</li>
     <li>Modern Kiosk (controle da experiência em ambiente de exposição)</li>
   </ul>
-
-  <hr />
-
-  <h2>💻 Requisitos para Execução</h2>
-  <ul>
-    <li>Navegador com acesso à internet</li>
-    <li>Mouse ou dispositivo apontador</li>
-    <li>Extensão TamperMonkey instalada</li>
-    <li>Ambiente em modo kiosk (opcional para eventos)</li>
-  </ul>
-
+  
   <hr />
 
   <h2>🎓 Contexto Educacional</h2>
@@ -106,11 +96,4 @@
     sem conhecimento prévio tenham um primeiro contato com a área.
   </p>
 
-  <hr />
-
-  <h2>📌 Conclusão</h2>
-  <p>
-    <strong>Sistema em Apuros</strong> demonstra como jogos interativos podem ser ferramentas eficazes para
-    introduzir estudantes à Engenharia de Sistemas, combinando aprendizado, narrativa e desafios práticos em
-    uma experiência acessível e dinâmica.
-  </p>
+    <hr />
